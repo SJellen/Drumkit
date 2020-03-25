@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-![screenshot](https://github.com/SJellen/Drumkit/blob/master/drum.png)
+![screenshot](https://github.com/SJellen/Drumkit/blob/master/screenshot.png)
 
 > JS30 drumkit
 
